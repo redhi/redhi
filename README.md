@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @redhi, MinJi Kim
 - 👀 I’m interested in Backend
-- 🌱 I’m currently learning Node.js, Python
+- 🌱 I’m currently learning Node.js, Python, MongoDB
 
 
 <!---
