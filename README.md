@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=F05650&height=300&section=header&text=Minji Kim&fontSize=90&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=F05650&height=300&section=header&text=Redhi&fontSize=90&animation=fadeIn" />
 
 <h3><div align="center">안녕하십시오!👋 변화와 실패를 두려워하지 않는 백엔드 개발자로 진화 중인 김민지입니다.</h3>
 <br />
@@ -44,4 +44,5 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redhi&show_icons=true&theme=flag-india)
 
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fredhi%2Fhit-counter"/></a>                        
 
