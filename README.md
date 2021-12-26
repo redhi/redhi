@@ -1,13 +1,11 @@
-<img src="https://capsule-render.vercel.app/api?type=slice&color=F05650&height=300&section=header&text=Redhi&fontSize=90&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=slice&color=F05650&height=300&section=header&text=Redhi&fontSize=90&animation=blink" />
 
 <h3><div align="center">안녕하십시오!👋 변화와 실패를 두려워하지 않는 백엔드 개발자로 진화 중인 김민지입니다.</h3>
 <br />
-<h1><div align="center">
- 🛠Tech Stack🛠
-</div></h1>
-<h2><div align="center">
+ <h3 align="center" dir="auto">🛠Tech Stack🛠</h3>
+<h4><div align="center">
  Techs that I've used at least once
-</div></h2>
+</div></h4>
 <div align="center">
 
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
@@ -28,9 +26,10 @@
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp; 
 <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/></a>&nbsp;
 </div>
-<h1><div align="center">
+<br />
+<h3><div align="center">
  🤝Cowork Tools🤝
-</div></h1>
+</div></h3>
 <div align="center">
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>&nbsp; 
 <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white"/></a>&nbsp;
@@ -40,6 +39,7 @@
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"/></a>&nbsp;
 </div>
+<br />
 <br />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=redhi&show_icons=true&theme=flag-india)
